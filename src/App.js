@@ -40,6 +40,7 @@ function FormTodo({ addTodo }) {
 }
 
 
+//main component 
 
 function App() {
   const [todos, setTodos] = useState([{
